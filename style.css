@@ -1,0 +1,19 @@
+body{
+    background-color:teal;
+}
+
+#container{
+    text-align:center;
+}
+
+.button{
+    border-radius: 30px;
+    background-color: indigo;
+}
+.button:hover{
+    background-color: blueviolet
+}
+
+ul{
+    list-style-type: none;
+}
